@@ -2,8 +2,8 @@
 
 <h2> Общая информация</h2>
 <p><strong>Автор:</strong> Конов Михаил ПР-7<br>
-<strong>Предмет:</strong> Программирование на Java<br>
-<strong>Лабораторная работа:</strong> №1</p>
+<strong>Лабораторная работа:</strong> №1<br>
+<strong>Вариант:</strong> №2</p>
 
 <hr>
 
